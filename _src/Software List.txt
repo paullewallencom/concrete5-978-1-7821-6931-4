@@ -1,0 +1,7 @@
+FileZilla
+Notepad++
+TextWrangler
+PSPad
+7-zip
+IZArc
+Bitnami WAMP stack
